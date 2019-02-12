@@ -1,11 +1,15 @@
 ////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                        //
-//  RecursiveGeek-DarkOrange theme v1.0 for Telegram Desktop.                             //
+//  RecursiveGeek-DarkOrange Telegram Desktop Theme Collection v1.0.1                     //
+//    RecursiveGeek-DarkOrange (No wallpaper)                                             //
+//    RecursiveGeek-DarkOrange-Workout (With wallpaper)                                   //
 //                                                                                        //
-//  Source code: https://github.com/RecursiveGeek/telegram-theme-orange                   //
+//  Source code: https://github.com/RecursiveGeek/telegram-theme-darkorange               //
 //                                                                                        //
-//  Published under MIT Licence. Feel free to modify this file whatever you want.         //
-//  Mentioning the original source code repo isn't mandatory, but highly appreciated!     //
+//  Developed by Hans Dickel, a recursive geek                                            //
+//                                                                                        //
+//  Published under MIT Licence. Feel free to modify this file.                           //
+//  Mentioning the original source code repo isn't mandatory, but appreciated!            //
 //                                                                                        //
 ////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -283,30 +287,30 @@ historyUnreadBarFg: #ededed;                                 // Unread messages 
 historyForwardChooseBg: #0000004c;                           // "Choose recipient" BACKGROUND color (forwarding)
 historyForwardChooseFg: COLOR_WHITE;                         // "Choose recipient" text color (forwarding)
 
-historyPeer1NameFg: #cc4d42;                                 // Group chat sender name - Red
-historyPeer1NameFgSelected: historyPeer1NameFg;              // Red group member name in a selected message
-historyPeer1UserpicBg: #e17076;                              // Group chat userpic background - Red
-historyPeer2NameFg: #4fad2d;                                 // Sender name - Green
-historyPeer2NameFgSelected: historyPeer2NameFg;              // Green group member name in a selected message
-historyPeer2UserpicBg: #7bc862;                              // Userpic background - Green
-historyPeer3NameFg: #d09306;                                 // Sender name - Yellow
-historyPeer3NameFgSelected: historyPeer3NameFg;              // Yellow group member name in a selected message
-historyPeer3UserpicBg: #e5ca77;                              // Userpic background - Yellow
-historyPeer4NameFg: #15cd7d;                                 // Sender name - Light green
-historyPeer4NameFgSelected: historyPeer4NameFg;              // Blue group member name in a selected message
-historyPeer4UserpicBg: #65aadd;                              // Userpic background - Blue
-historyPeer5NameFg: #a363f2;                                 // Sender name - Purple
-historyPeer5NameFgSelected: historyPeer5NameFg;              // Purple group member name in a selected message
-historyPeer5UserpicBg: #a695e7;                              // Userpic background - Light Purple
-historyPeer6NameFg: #cd4073;                                 // Sender name - "Raspberry"
-historyPeer6NameFgSelected: historyPeer6NameFg;              // "Raspberry" group member name in a selected message
-historyPeer6UserpicBg: #ee7aae;                              // Userpic background - Light "Raspberry"
-historyPeer7NameFg: #2996ad;                                 // Sender name - Cyan
-historyPeer7NameFgSelected: historyPeer7NameFg;              // Cyan group member name in a selected message
-historyPeer7UserpicBg: #6ec9cb;                              // Userpic background - Cyan
-historyPeer8NameFg: #ce671b;                                 // Sender name - Orange
-historyPeer8NameFgSelected: historyPeer8NameFg;              // Orange group member name in a selected message
-historyPeer8UserpicBg: #faa774;                              // Userpic background - Light Orange
+historyPeer1NameFg: #f15c25;                                 // Group chat sender name #1
+historyPeer1NameFgSelected: historyPeer1NameFg;              //   Group member name in a selected message
+historyPeer1UserpicBg: historyPeer1NameFg;                   //   Group chat userpic background
+historyPeer2NameFg: #000000;                                 // Group chat sender name #2
+historyPeer2NameFgSelected: historyPeer2NameFg;              //   Goup member name in a selected message
+historyPeer2UserpicBg: historyPeer2NameFg;                   //   Userpic background
+historyPeer3NameFg: #13b71c;                                 // Group chat sender name #3
+historyPeer3NameFgSelected: historyPeer3NameFg;              //   Group member name in a selected message
+historyPeer3UserpicBg: historyPeer3NameFg;                   //   Userpic background
+historyPeer4NameFg: #ebf260;                                 // Group chat sender name #4
+historyPeer4NameFgSelected: historyPeer4NameFg;              //   Group member name in a selected message
+historyPeer4UserpicBg: #historyPeer4NameFg;                  //   Userpic background - Blue
+historyPeer5NameFg: #bc8df5;                                 // Group chat sender name #5
+historyPeer5NameFgSelected: historyPeer5NameFg;              //   Group member name in a selected message
+historyPeer5UserpicBg: historyPeer5NameFg;                   //   Userpic background
+historyPeer6NameFg: #f16b75;                                 // Group chat sender name #6
+historyPeer6NameFgSelected: historyPeer6NameFg;              //   Group member name in a selected message
+historyPeer6UserpicBg: historyPeer6NameFg;                   //   Userpic background
+historyPeer7NameFg: #f58deb;                                 // Group chat sender name #7
+historyPeer7NameFgSelected: historyPeer7NameFg;              //   Group member name in a selected message
+historyPeer7UserpicBg: historyPeer7NameFg;                   //   Userpic background
+historyPeer8NameFg: #76bafe;                                 // Group chat sender name #8
+historyPeer8NameFgSelected: historyPeer8NameFg;              //   Group member name in a selected message
+historyPeer8UserpicBg: historyPeer8NameFg;                   //   Userpic background
 historyPeerUserpicFg: COLOR_WHITE;                           // Default userpic initials
 
 // Some values are marked as (adjusted), it means they're adjusted by
@@ -332,7 +336,7 @@ msgInShadow: #3d3c3c29;                                      // Incoming message
 msgInShadowSelected: #2f303029;                              // Selected incoming message box shadow
 msgOutShadow: #4e4f4e40;                                     // Outgoing message box shadow
 msgOutShadowSelected: #2f303040;                             // Selected outgoing message box shadow
-msgInDateFg: #a0acb6;                                        // Incoming message date text
+msgInDateFg: #5c5c5c;                                        // Incoming message date text
 msgInDateFgSelected: COLOR_ACCENT_SECONDARY;                 // Incoming selected message date text
 msgOutDateFg: COLOR_ORANGE;                                  // Outgoing message date text
 msgOutDateFgSelected: COLOR_ACCENT_SECONDARY;                // Outgoing selected message date text
