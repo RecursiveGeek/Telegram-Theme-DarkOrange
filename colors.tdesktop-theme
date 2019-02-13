@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                        //
-//  RecursiveGeek-DarkOrange Telegram Desktop Theme Collection v1.0.1                     //
+//  RecursiveGeek-DarkOrange Telegram Desktop Theme Collection v1.0.2                     //
 //    RecursiveGeek-DarkOrange (No wallpaper)                                             //
 //    RecursiveGeek-DarkOrange-Workout (With wallpaper)                                   //
 //                                                                                        //
@@ -336,7 +336,7 @@ msgInShadow: #3d3c3c29;                                      // Incoming message
 msgInShadowSelected: #2f303029;                              // Selected incoming message box shadow
 msgOutShadow: #4e4f4e40;                                     // Outgoing message box shadow
 msgOutShadowSelected: #2f303040;                             // Selected outgoing message box shadow
-msgInDateFg: #5c5c5c;                                        // Incoming message date text
+msgInDateFg: #000000;                                        // Incoming message date text
 msgInDateFgSelected: COLOR_ACCENT_SECONDARY;                 // Incoming selected message date text
 msgOutDateFg: COLOR_ORANGE;                                  // Outgoing message date text
 msgOutDateFgSelected: COLOR_ACCENT_SECONDARY;                // Outgoing selected message date text
