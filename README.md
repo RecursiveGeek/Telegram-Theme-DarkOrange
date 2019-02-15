@@ -1,6 +1,10 @@
 # Telegram Messenger Dark Orange theme 
 > A dark orange theme for [Telegram Desktop](https://desktop.telegram.org/).  There are two releases based on the single theme.  One has a workout background image, which is what inspired the theme colors in the first place.  The other doesn't contain the workout wallpaper.
 
+| Dark Orange Theme Sample | Dark Orange Workout Theme Sample |
+|--------------------------|----------------------------------|
+| <img src="https://github.com/RecursiveGeek/Telegram-Theme-DarkOrange/blob/master/Sample-DarkOrange.jpg?raw=true" alt="Screenshot Sample" width="400"> | <img src="https://github.com/RecursiveGeek/Telegram-Theme-DarkOrange/blob/master/Sample-DarkOrange-Workout.jpg?raw=true" alt="Screenshot Sample" width="400"> |
+
 ## Install
 1. Download the latest theme version from [releases](https://github.com/recursivegeek/telegram-theme-darkorange/releases) and save to your local computer.
 2. In **Telegram Desktop**, select the **hamburger** menu, select **Settings**, select **Chat Settings**, select **Choose from file**, select the file downloaded from the previous step.
