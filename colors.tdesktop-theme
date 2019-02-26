@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                        //
-//  RecursiveGeek-DarkOrange Telegram Desktop Theme Collection v1.0.2                     //
+//  RecursiveGeek-DarkOrange Telegram Desktop Theme Collection v1.0.3                     //
 //    RecursiveGeek-DarkOrange (No wallpaper)                                             //
 //    RecursiveGeek-DarkOrange-Workout (With wallpaper)                                   //
 //                                                                                        //
@@ -15,7 +15,7 @@
 
 // Color presets
 COLOR_PRIMARY: #1d1d1d;                                      // Main color
-COLOR_ACCENT_PRIMARY: #cf430e;                               // Accent color
+COLOR_ACCENT_PRIMARY: #c13f0d;                               // Accent color
 COLOR_ACCENT_SECONDARY: #f15c25;                             // Accent color #2 (just like first one with slight changes)
 COLOR_RIPPLE_ACTIVE: #f48960;
 COLOR_DEBUG: #9f3ca2;
