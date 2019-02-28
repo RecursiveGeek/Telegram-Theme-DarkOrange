@@ -1,5 +1,11 @@
 # Telegram Messenger Dark Orange theme 
-> A dark orange theme for [Telegram Desktop](https://desktop.telegram.org/).  There are two releases based on the single theme.  One has a workout background image, which is what inspired the theme colors in the first place.  The other doesn't contain the workout wallpaper.
+> A dark orange theme for [Telegram Desktop](https://desktop.telegram.org/).  There are three releases based on the single theme.  They are as follows:
+
+1. Dark Orange theme with a dark orange background color
+2. Dark Orange theme with workout wallpaper
+3. Dark Orange theme with workout and Art of Strength Minnesota logo - this logo work was the inspiration for this theme colors
+
+Here is a sample screenshots:
 
 | Dark Orange Theme Sample | Dark Orange Workout Theme Sample |
 |--------------------------|----------------------------------|
