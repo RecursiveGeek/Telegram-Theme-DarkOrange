@@ -1,5 +1,5 @@
 # Telegram Messenger Dark Orange theme 
-> A dark orange theme for [Telegram Desktop](https://desktop.telegram.org/).  There are three releases based on the single theme.  They are as follows:
+> A **Dark Orange** theme for [Telegram Desktop](https://desktop.telegram.org/).  There are three releases based on the single theme.  They are as follows:
 
 1. Dark Orange theme with a dark orange background color
 2. Dark Orange theme with workout wallpaper
@@ -22,10 +22,13 @@ Editing was done using the following:
 - [Color Highlight extension](https://github.com/sergiirocks/vscode-ext-color-highlight)
 - VS Color Picker (Windows Only) *Still looking for a version that universally works well on Windows, Mac, and Linux platforms*
 
-The generated *.tdesktop-theme* file is a zip file that contains an image for tiled (*tiled.jpg*) or full background (*background.jpg*) and a color definition file (*colors.tdesktop-theme*).  Now, why they made the package file extension the same as the color definition file is beyond me, but it makes the confusion makes life a little more "interesting"! :-)
+The generated *.tdesktop-theme* file is a zip file that contains an image for tiled (*tiled.jpg*) or full background (*background.jpg*) and a color definition file (*colors.tdesktop-theme*).  
 
 ## Submission
-It is recommended to join the [Telegram Desktop Themes Channel](https://t.me/TelegramThemes) chat group.  There is a pinned message to help get started and this channel is used for theme submission.  The [Theme Submission Guidelines](https://telegra.ph/Content-Submission-Guidelines-06-04) provides information on potentially having the theme published into [Telegram Themes Channel](https://t.me/themes).
+It is recommended to join the [Telegram Desktop Themes Channel](https://t.me/TelegramThemes) chat group.  There is a pinned message to help get started and this channel is used for theme submission.  The [Theme Submission Guidelines](https://telegra.ph/Content-Submission-Guidelines-06-04) provides information on potentially having the theme published into [Telegram Themes Channel](https://t.me/themes).  Tag it with *#theme*.
 
 ## License
 [MIT License](./LICENSE)
+
+## Telegram Theme Collection Number
+One
